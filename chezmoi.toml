@@ -1,0 +1,6 @@
+[diff]
+    format = "git"
+
+[sourceVCS]
+    autoCommit = true
+    autoPush = true

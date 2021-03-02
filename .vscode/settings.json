@@ -1,0 +1,4 @@
+{
+    "nixEnvSelector.nixFile": "${workspaceRoot}/default.nix",
+    "nixEnvSelector.args": "-A shell"
+}
